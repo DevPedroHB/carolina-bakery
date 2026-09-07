@@ -20,7 +20,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 py-8 md:divide-x md:divide-primary">
           <div className="flex flex-col justify-center items-center md:items-start px-6 md:text-left text-center">
             <Image
-              src="/images/logo.png"
+              src="/images/logo.webp"
               alt="Carolina Pães e Doces"
               width={150}
               height={70}
